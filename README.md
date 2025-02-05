@@ -1,2 +1,1 @@
-# Mars-AI
-## GenAI Hackathon 
+Profile repo
